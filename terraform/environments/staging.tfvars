@@ -1,0 +1,10 @@
+environment     = "staging"
+minikube_cpus   = 2
+minikube_memory = 2048
+db_name         = "devops_db_staging"
+db_user         = "postgres"
+db_password     = "postgres"
+db_port         = 5435
+jenkins_port    = 8081
+docker_registry = "francyhsu123"
+k8s_namespace   = "devops-staging"
