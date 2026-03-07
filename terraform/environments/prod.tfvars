@@ -1,0 +1,10 @@
+environment     = "prod"
+minikube_cpus   = 4
+minikube_memory = 4096
+db_name         = "devops_db_prod"
+db_user         = "postgres"
+db_password     = "postgres"
+db_port         = 5436
+jenkins_port    = 8081
+docker_registry = "francyhsu123"
+k8s_namespace   = "devops-prod"
